@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Anh Vu",
+      "titles": [ "Graphic Designer", "Undergraduate Student", "UGC Content Creator", "UI/UX Designer" ],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com",
-          "class": "fab fa-github"
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/anhpvu/ ",
+          "class": "devicon-linkedin-plain"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/zonnapvu/",
           "class": "fab fa-instagram"
         }
       ],
@@ -19,49 +19,39 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "Figma\n",
+          "class": "ion:logo-figma",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Adobe Illustration",
+          "class": "file-icons:adobe-illustrator",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Adobe InDesign",
+          "class": "icon-park-solid:adobe-indesign",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Canva\n",
+          "class": "simple-icons:canva",
           "level": "90"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "name": "UX/UI Design",
+          "class": "majesticons:ux-circle",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Video Editing",
+          "class": "dashicons:editor-video",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Social Media",
+          "class": "mdi:people-group",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
       ]
     }

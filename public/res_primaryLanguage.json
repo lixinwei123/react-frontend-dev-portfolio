@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi!",
+      "description": "As a current graphic design student, I am visually, and introspectively learning through different experiences. I aspire to become a UX Designer as I seek to curate a visual experience, bridging the connection between creativity and technology. I am actively, curiously learning, and exploring through different experiences to broaden my knowledge of design, and social media content creation. And I am a huge foodie, especially for a good bowl of ramen!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,27 +11,16 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Frog-Leap",
+        "startDate": "2022",
+        "description": "This project covers what, how, and why can we enhance a user experience on campus. Working with a team, we decided to create a campus shuttle experience for college students. The shuttle can provide easy accessibility for transportation around two miles radius. Inspired by the Uber app, I, as the designer of the group create an imaginary mobile platform on an existing campus map app for students to access FrogLeap. Here, students can navigate through the instructions and schedule their desired time and date for the shuttle to arrive. Calculating the GPS location, the shuttle will estimate the wait time and give students the closest stop to their arrival location..",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Frog-Leap/p1.png",
+          "images/portfolio/Frog-Leap/p2.png",
+          "images/portfolio/Frog-Leap/p3.png"
         ],
         "url": "",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
         ]
       },
       {
