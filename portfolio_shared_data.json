@@ -1,0 +1,58 @@
+{
+    "basic_info": {
+      "name": "Anh Vu",
+      "titles": [ "Graphic Designer", "Undergraduate Student", "UGC Content Creator", "UI/UX Designer" ],
+      "social": [
+        {
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/anhpvu/ ",
+          "class": "devicon-linkedin-plain"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/zonnapvu/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Figma\n",
+          "class": "ion:logo-figma",
+          "level": "95"
+        },
+        {
+          "name": "Adobe Illustration",
+          "class": "file-icons:adobe-illustrator",
+          "level": "95"
+        },
+        {
+          "name": "Adobe InDesign",
+          "class": "icon-park-solid:adobe-indesign",
+          "level": "80"
+        },
+        {
+          "name": "Canva\n",
+          "class": "simple-icons:canva",
+          "level": "90"
+        },
+        {
+          "name": "UX/UI Design",
+          "class": "majesticons:ux-circle",
+          "level": "70"
+        },
+        {
+          "name": "Video Editing",
+          "class": "dashicons:editor-video",
+          "level": "75"
+        },
+        {
+          "name": "Social Media",
+          "class": "mdi:people-group",
+          "level": "85"
+        }
+      ]
+    }
+  }
