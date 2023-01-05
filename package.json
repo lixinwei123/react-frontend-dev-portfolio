@@ -1,7 +1,7 @@
 {
-  "name": "Anh-Vu-Portfolio",
-  "homepage": "https://lixinwei123.github.io/react-frontend-dev-portfolio/",
+  "name": "Homepage",
   "version": "0.1.0",
+  "homepage": "https://anhpvu.github.io/homepage",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
